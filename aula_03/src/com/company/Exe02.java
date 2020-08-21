@@ -38,7 +38,7 @@ public class Exe02 {
         }
         JOptionPane.showMessageDialog(null, "O VALOR A SER PAGO É "+valorImposto);
 
-        
+
     }
 
 }
